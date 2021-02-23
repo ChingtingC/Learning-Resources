@@ -2,7 +2,7 @@
 
 Noting and organizing learning resources
 
-* Expected content:
+## Expected content:
 
 1. Languages
     * Not classified
@@ -18,7 +18,7 @@ Noting and organizing learning resources
 
 紀錄並整理一些學習資源
 
-* 預期內容：
+## 預期內容：
 
 1. 語言
     * 不分類
