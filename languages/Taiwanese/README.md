@@ -68,3 +68,9 @@
 * [Youtube Video 臺語繞口令《狗仔佮猴仔》| 共班讀冊【咱來緊喙唸】](https://www.youtube.com/watch?v=k9tmveOy8OI)
 * [Ptt article Re: \[問卦\] 有人會用台語說一加一等於二嗎](https://www.ptt.cc/bbs/Gossiping/M.1449111843.A.9DB.html)
 * [AudioBook 我咧唱歌【1書+1朗讀有聲書】](https://readmoo.com/book/290153958000101)
+
+---
+
+If you want to share more or you find that links fail, feel free to contact me or push commit :)
+
+如果你願意分享更多，或是發現連結失效，歡迎和我聯絡或是直接推 commit :)
