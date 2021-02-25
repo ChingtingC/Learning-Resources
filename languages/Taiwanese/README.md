@@ -9,6 +9,7 @@
 * [阿東的哩哩叩叩](https://www.facebook.com/lilicocoTong/): 不定期透過台語字卡，分享一些特別、有趣、生活的台語文，並同時有台語正字、羅馬字、英文註釋等，此外，也會不定期分享台語相關有趣的人事物
 * [瑩火蟲（hué-kim-koo）](https://www.facebook.com/%E7%91%A9%E7%81%AB%E8%9F%B2hu%C3%A9-kim-koo-106052087757861/)
 * [台語tsín袂輾轉 Easy Taiwanese](https://www.facebook.com/easytaiwanese/)
+* [台語文講畫本 Tâigíbûn kóng uēpún](https://www.facebook.com/taigiuepun)
 * [台女講台 Tâi-lí Káng-tâi](https://www.facebook.com/tailikangtai/): 用華語和台語，分享台灣故事、新聞、文化的頻道
 * [牽囡仔ê手 行台語ê路](https://www.facebook.com/taigiloo/): 一群和孩子說台語的媽媽
 * [吳國禎。講新聞、說歌詩](https://www.facebook.com/taiwanesesongs/)
@@ -31,7 +32,7 @@
 
 ### Youtube Channels Youtube 頻道
 
-*  [](https://www.youtube.com/channel/UC8Bj1AnLs3na054bM37BTNg)
+*  [阿勇台語 Aiong Taigi](https://www.youtube.com/channel/UC8Bj1AnLs3na054bM37BTNg)
 *  [台語冷智識A-ian](https://www.youtube.com/channel/UCYom-OkXXhj4a2I5sKI72zA/featured): 製作這個節目主要就是希望能夠吸引這些沒接觸過台文，平常不說台語甚至排斥台語的人，透過比較有趣的內容，讓一般大眾多接觸一些台語，認識這個語言的各種面向，所以頻道的文字我選擇主要以中文呈現，讓聽不懂的人也有接觸的機會。
 *  [台南妹仔教你講台語](https://www.youtube.com/channel/UCAEWlYbdwc2d7lAr9FUNf-g)
 *  [Pit-soàn ê chhián-ha̍k](https://www.youtube.com/channel/UCocb6Cxq3Jcwz7oeRQ0-WsA): 筆算e淺學，用台語介紹數學
