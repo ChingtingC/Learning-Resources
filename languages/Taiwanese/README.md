@@ -21,6 +21,7 @@
 * [來聽台語囡仔古](https://www.facebook.com/taiwanstory2016/): 為響應聯合國「國際母語日」推廣台灣本土語文，台灣羅馬字協會自2016年起辦理親子說台語故事活動。
 * [台語文創意園區](https://www.facebook.com/Taigibun0505): 彰化台語文推廣基地
 * [iTaigi](https://www.facebook.com/ukauitaigi): iTaigi是一個給廣大鄉民使用的台語查詢網站，同時以協作的精神一起編辭典，找回台語的活力。除了查詢，也希望能夠提供有趣的學習素材，讓大家一起愛台語。 iTaigi sī tsi̍t-ê hōo kóng-tāi hiong-bîn sú-iōng ê Tâi-gí tsa-sûn bāng-tsām, tông-sî í hia̍p-tsok ê tsing-sîn tsò-hué lâi pian sû-tián, kā Tâi-gí ê ua̍h-li̍k tshuē tò-tńg--lâi. Tû-liáu tsa-sûn, iā hi-bāng ē-tàng thê-kiong sim-sik koh tshù-bī ê ha̍k-si̍p tsâi-liāu, tāi-ke tsò-hué ài Tâi-gí!
+* [水台文](https://www.facebook.com/sui.taibun/)
 * [一起來講閩南語](https://www.facebook.com/SpeakHokkienTogether/) (Last update in 2016. 上次更新是 105 年)
 
 
@@ -48,7 +49,10 @@
 ### Blogs/Websites 部落格/網站
 * [臺灣閩南語羅馬字拼音教學網](https://tailo.moe.edu.tw/)
 * [教育部閩南語語言認證考試](https://blgjts.moe.edu.tw/tmt/index.php)
+* [教育部閩南語自學資源](https://blgjts.moe.edu.tw/tmt/view.php)
 * [教育部閩南語動畫](https://twbangga.moe.edu.tw/)
+* [李江却台語文教基金會](https://www.tgb.org.tw/p/blog-page_9.html)
+* [台語文數位典藏資料庫](http://210.240.194.97/nmtl/dadwt/pbk.asp)
 * [戲說台灣](http://blog.iset.com.tw/dramatalk/)
 * [臺灣話 ê 簿仔紙](https://junhaoshihmd.blogspot.com/p/blog-page_30.html)
 * [牽囡仔 ê 手行台語 ê 路](https://taigiloo.tw/)
@@ -56,7 +60,16 @@
 * [台灣話講數學](https://pngchungan1.blogspot.com/)
 * [台語影音 Taiwanese Video](http://ip194097.ntcu.edu.tw/V/iannim.asp)
 * [台灣母語聯盟](https://bogilianbing.wordpress.com)
+* [台字田](http://188.166.188.8:8000/): 台語字詞查詢
+* [ChhoeTaigi 找台語](https://chhoe.taigi.info/): 台語字詞查詢
 
+
+### Books 書籍
+* 日用台語800句：學台語一本搞定，附古文暨詩詞欣賞 [Books.com.tw](https://www.books.com.tw/products/0010837334)
+* 台灣羅馬字拼音圖解（三版） [Books.com.tw](https://www.books.com.tw/products/0010864253)
+* 白話字基礎教材 [Sanmin.com.tw](https://www.sanmin.com.tw/Product/Index/001198091)
+* 正港台語入門書
+* AudioBook 我咧唱歌【1書+1朗讀有聲書】 [Readmoo.com](https://readmoo.com/book/290153958000101)
 
 ### Keyboard in Mobile 手機輸入法
 
@@ -68,7 +81,6 @@
 
 * [Youtube Video 臺語繞口令《狗仔佮猴仔》| 共班讀冊【咱來緊喙唸】](https://www.youtube.com/watch?v=k9tmveOy8OI)
 * [Ptt article Re: \[問卦\] 有人會用台語說一加一等於二嗎](https://www.ptt.cc/bbs/Gossiping/M.1449111843.A.9DB.html)
-* [AudioBook 我咧唱歌【1書+1朗讀有聲書】](https://readmoo.com/book/290153958000101)
 
 ---
 
