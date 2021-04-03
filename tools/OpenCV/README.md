@@ -2,6 +2,8 @@
 
 ## installation
 
+`pip install opencv-python` -> failed with MacOS M11 ;(
+
 ## usage
 
 1. import
