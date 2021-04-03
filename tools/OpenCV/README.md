@@ -2,7 +2,13 @@
 
 ## installation
 
-`pip install opencv-python` -> failed with MacOS M11 ;(
+`pip install opencv-python`
+
+or
+
+`conda install opencv` for conda
+
+or refer to https://docs.opencv.org/master/da/df6/tutorial_py_table_of_contents_setup.html
 
 ## usage
 
