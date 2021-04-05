@@ -22,5 +22,5 @@ if the shape of src and dst is \[H, W]
   * interpolation is INTER_NEAREST 
 * case4:
   * map1 is int16 with shape \[H, W, 2], representing the floor values of (x, y).
-  * map2 is uint16 with shape \[H, W], representing the fraction part of (x, y).
-  * interpolation is not Nearest
+  * map2 is uint16 with shape \[H, W], representing the fraction part of (x, y), \[0 : 3] for Q0.4 fixed-point fraction of x and \[4 : 7] for Q0.4 fixed-point fraction of y.
+  * interpolation is **not** Nearest
