@@ -24,6 +24,7 @@ if the shape of src and dst is \[H, W]
   * map1 is int16 with shape \[H, W, 2], representing the floor values of (x, y).
   * map2 is \[u]int16 with shape \[H, W], representing the fraction part of (x, y), \[0 : 4] for the fraction of x and \[5 : 9] for the fraction of y by Q0.5 fixed-point.
   * interpolation is **not** `INTER_NEAREST`.
+  * reference: [InterpolationMasks](https://docs.opencv.org/master/da/d54/group__imgproc__transform.html#ga628d8c499433359d67b1d830d46d8dae)
 * Not sure(?) cases:
   1. map1 is int16 with shape \[H, W, 2] and map2 is **not** `None` when interpolation is `INTER_NEAREST`.
   2. map1 is int16 with shape \[H, W, 2] and map2 is `None` when interpolation is **not** `INTER_NEAREST`.
