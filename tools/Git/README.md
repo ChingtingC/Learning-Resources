@@ -13,4 +13,5 @@
         * [Code Review](https://github.com/features/code-review/)
         * [Project Management](https://github.com/features/project-management/)
         * [Integrations](https://github.com/features/integrations)
+        * [Packages](https://github.com/features/packages)
 2. [GitLab](https://about.gitlab.com/)
