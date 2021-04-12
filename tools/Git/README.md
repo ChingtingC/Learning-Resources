@@ -26,6 +26,24 @@ If you have no ideas to do, just call help!
 
 `git help`
 
+### Set who you are :)
+
+* method 1:
+
+```
+cat >> ~/.gitconfig <<\EOF
+[user]
+	name = Your Name on Git
+	email = your-mail@yourdomain.com
+EOF
+```
+* method 2:
+
+```
+git config --global user.name "Your Name on Git"
+git config --global user.email your-mail@yourdomain.com
+```
+
 ### Create a new repository
 
 Wanna create a whole new repository!
@@ -43,3 +61,57 @@ If you wanna use an existing repository instead of creating it by yourself, try 
 `git clone git://XXXXX.git`
 
 for example: `git clone git@github.com:ChingtingC/Learning-Resources.git`
+
+### Make something change!
+
+add a new file or update a file
+
+`git add file_test_a.txt`
+
+remove a file
+
+`git rm file_test_b.txt`
+
+leave a message about this change
+
+`git commit`
+
+### More
+
+`git commit`
+`git diff`
+`git show`
+`git status`
+`git merge`
+`git log`
+`git reset`
+`git restore`
+`git revert`
+`git stash`
+`git fsck`
+`git branch`
+`git fetch`
+`git pull`
+`git format-patch`
+`git am`
+`git push`
+`git remote add public-repo`
+`git rebase`
+`git switch`
+`git request-pull`
+`git ls-tree`
+`git count-objects`
+`git repack`
+`git prune`
+`gitk`
+`git hash-object`
+`git submodule`
+`git update-index`
+`git write-tree`
+`git read-tree`
+`git checkout-index`
+`git commit-tree`
+`git cat-file`
+`git merge-base`
+
+ref: https://git-scm.com/docs/user-manual
