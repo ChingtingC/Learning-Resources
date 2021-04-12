@@ -17,3 +17,29 @@ Git is a free and open source distributed version control system designed to han
         * [Integrations](https://github.com/features/integrations)
         * [Packages](https://github.com/features/packages)
 2. [GitLab](https://about.gitlab.com/)
+
+## Usage
+
+### Need help!
+
+If you have no ideas to do, just call help!
+
+`git help`
+
+### Create a new repository
+
+Wanna create a whole new repository!
+
+```
+mkdir git_repo_test
+cd git_repo_test
+git init
+```
+
+### Get an existing Git repository
+
+If you wanna use an existing repository instead of creating it by yourself, try to git clone!
+
+`git clone git://XXXXX.git`
+
+for example: `git clone git@github.com:ChingtingC/Learning-Resources.git`
