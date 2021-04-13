@@ -54,6 +54,27 @@ cd git_repo_test
 git init
 ```
 
+### Branch ... ?
+
+A "branch" is a line of development. A single Git repository can track an arbitrary number of branches, but your working tree is associated with just one of them (the "current" or "checked out" branch), and HEAD points to that branch.
+
+List all branches in the repository
+
+`git branch`
+
+Switch working directory to branch_A
+
+`git switch branch_A`
+
+Create and switch working directory to branch_B
+
+`git branch branch_B`
+
+Delete branch_C
+
+`git branch -d branch_C`
+
+
 ### Get an existing Git repository
 
 If you wanna use an existing repository instead of creating it by yourself, try to git clone!
