@@ -54,9 +54,11 @@ cd git_repo_test
 git init
 ```
 
-### Branch ... ?
+### HEAD, head & branch ... ?
 
-A "branch" is a line of development. A single Git repository can track an arbitrary number of branches, but your working tree is associated with just one of them (the "current" or "checked out" branch), and HEAD points to that branch.
+* **branch** is a line of development. A single Git repository can track an arbitrary number of branches.
+* **head** is a named reference to the commit at the tip of a branch.
+* **HEAD** means the current branch. It is a reference to one of the heads in the repository (except when using a detached HEAD, in which case it directly references an arbitrary commit.)
 
 List all branches in the repository
 
