@@ -58,7 +58,8 @@ git init
 
 * **branch** is a line of development. A single Git repository can track an arbitrary number of branches.
 * **head** is a named reference to the commit at the tip of a branch.
-* **HEAD** means the current branch. It is a reference to one of the heads in the repository (except when using a detached HEAD, in which case it directly references an arbitrary commit.)
+* **HEAD** means the current branch. It is a reference to one of the heads in the repository (except when using a detached HEAD).
+* **detached HEAD**: Git allows you to check out an arbitrary commit that isn’t necessarily the tip of any particular branch. The HEAD in such a state is called "detached".
 
 List all branches in the repository
 
