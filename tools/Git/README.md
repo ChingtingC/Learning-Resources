@@ -105,8 +105,7 @@ leave a message about this change
 Use **git push \<repository\> \<refspec\>** to share your changes!
 
 * **\<repository\>** means the "remote" repository that is destination of a push operation. This parameter can be either **a URL** (eg. `git@github.com:ChingtingC/Learning-Resources.git`) or **the name of a remote** (eg. `origin`).
-* **\<refspec\>** specifies what destination ref to update with what source object. The format of a `<refspec>` parameter is `+<src>:<dst>`, `<src>:<dst>` or `<src>` (missing **:\<dst\>** means dst is the same as **\<src\>**). 
-    * Example1: `+branch_local:branch_remote`  
+* **\<refspec\>** specifies what destination ref to update with what source object. The format of a `<refspec>` parameter is `<src>:<dst>` or `<src>` (missing **:\<dst\>** means dst is the same as **\<src\>**). 
     * Example2: `branch_local:branch_remote` 
     * Example3: `branch_name`
 
