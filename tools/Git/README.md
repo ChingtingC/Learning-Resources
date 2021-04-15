@@ -56,7 +56,7 @@ git init
 
 ### HEAD, head & branch ... ?
 
-* **branch** is a line of development. A single Git repository can track an arbitrary number of branches.
+* **branch** is a line of development. A single Git repository can track an arbitrary number of branches. Whenever you create a Git repository, a branch named **master** is created, and becomes the active branch.
 * **head** is a named reference to the commit at the tip of a branch.
 * **HEAD** means the current branch. It is a reference to one of the heads in the repository (except when using a detached HEAD).
 * **detached HEAD**: Git allows you to check out an arbitrary commit that isn’t necessarily the tip of any particular branch. The HEAD in such a state is called "detached".
@@ -100,6 +100,20 @@ leave a message about this change
 
 `git commit`
 
+### Share changes to public!
+
+Use **git push \<repository\> \<refspec\>** to share your changes!
+
+* **\<repository\>** means the "remote" repository that is destination of a push operation. This parameter can be either **a URL** (eg. `git@github.com:ChingtingC/Learning-Resources.git`) or **the name of a remote** (eg. `origin`).
+* **\<refspec\>** specifies what destination ref to update with what source object. The format of a `<refspec>` parameter is `+<src>:<dst>`, `<src>:<dst>` or `<src>` (missing **:\<dst\>** means dst is the same as **\<src\>**). 
+    * Example1: `+branch_local:branch_remote`  
+    * Example2: `branch_local:branch_remote` 
+    * Example3: `branch_name`
+
+Hence, you can share your changes by
+
+`git push origin master`
+
 ### More
 
 `git commit`
@@ -113,15 +127,12 @@ leave a message about this change
 `git revert`
 `git stash`
 `git fsck`
-`git branch`
 `git fetch`
 `git pull`
 `git format-patch`
 `git am`
-`git push`
 `git remote add public-repo`
 `git rebase`
-`git switch`
 `git request-pull`
 `git ls-tree`
 `git count-objects`
