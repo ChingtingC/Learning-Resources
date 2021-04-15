@@ -109,9 +109,19 @@ Use **git push \<repository\> \<refspec\>** to share your changes!
     * Example2: `branch_local:branch_remote` 
     * Example3: `branch_name`
 
-Hence, you can share your changes by
+Hence, you can share your changes!
 
 `git push origin master`
+
+
+## Git Concepts
+
+### [The Object Database](https://git-scm.com/docs/user-manual#blob-object)
+
+1. blob object: is nothing but a binary blob of data, used to store file data. It doesn’t refer to anything else or have attributes of any kind.
+2. tree object
+3. commit object
+4. tag object
 
 ### More
 
