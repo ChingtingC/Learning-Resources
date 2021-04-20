@@ -2,7 +2,7 @@
 
 OpenCL (Open Computing Language) is an open, royalty-free standard for parallel programming of heterogenous systems.
 
-## Official Introduction Documents
+## Official Documents
 
 - [What is OpenCL?](./chapters/what_is_opencl.md)
 - [How does OpenCL Work?](./chapters/how_does_opencl_work.md)
@@ -13,3 +13,10 @@ OpenCL (Open Computing Language) is an open, royalty-free standard for parallel 
 - [OpenCL 3.0](./chapters/opencl_3.md)
 - [Tools for Offline Compilation of OpenCL Kernels](./chapters/os_tooling.md)
 - [Additional Resources](./chapters/additional_resources.md)
+
+## Official Resources
+
+- [Specification](https://www.khronos.org/registry/OpenCL/)
+- [SDK](https://github.com/KhronosGroup/OpenCL-SDK)
+- [3.0-Reference-Guide.pfd](https://www.khronos.org/files/opencl30-reference-guide.pdf)
+- [More Resources](https://www.khronos.org/opencl/resources)
