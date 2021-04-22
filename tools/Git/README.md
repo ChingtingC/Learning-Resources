@@ -84,19 +84,19 @@ If you wanna use an existing repository instead of creating it by yourself, try 
 
 `git clone git://XXXXX.git`
 
-for example: `git clone git@github.com:ChingtingC/Learning-Resources.git`
+For example: `git clone git@github.com:ChingtingC/Learning-Resources.git`
 
 ### Make something change!
 
-add a new file or update a file
+Add a new file or update a file:
 
 `git add file_test_a.txt`
 
-remove a file
+Remove a file:
 
 `git rm file_test_b.txt`
 
-leave a message about this change
+Leave a message about this change:
 
 `git commit`
 
@@ -114,6 +114,20 @@ Hence, you can share your changes!
 `git push origin master`
 
 
+### Show the working directory status!
+
+`git status`
+
+It may show 3 kinds of files:
+1. Changes to be committed
+2. Changes not staged for commit
+3. Untracked files
+
+In addition, there are also two kinds of files:
+1. Committed
+2. Ignored
+
+
 ## Git Concepts
 
 ### [The Object Database](https://git-scm.com/docs/user-manual#blob-object)
@@ -125,10 +139,8 @@ Hence, you can share your changes!
 
 ### More
 
-`git commit`
 `git diff`
 `git show`
-`git status`
 `git merge`
 `git log`
 `git reset`
