@@ -1,5 +1,11 @@
 # Taiwanese 臺語
 
+### Dictionary 字典
+* 教育部 https://twblg.dict.edu.tw/holodict_new/index.html
+* ChhoeTaigi https://chhoe.taigi.info/
+* 台日大辭典台語譯本 https://taigi.fhl.net/dict/
+* ChhoeTaigi 手機APP
+
 ### Facebook Fan Pages 臉書粉絲專頁
 
 * [公視台語台](https://www.facebook.com/ptstaiginews/): 「國家語言發展法」通過後，由政府支持的台語台且如期、如質成立，希望全民共同欣賞台語的「媠」（美麗）。
@@ -81,6 +87,13 @@
 
 * [Youtube Video 臺語繞口令《狗仔佮猴仔》| 共班讀冊【咱來緊喙唸】](https://www.youtube.com/watch?v=k9tmveOy8OI)
 * [Ptt article Re: \[問卦\] 有人會用台語說一加一等於二嗎](https://www.ptt.cc/bbs/Gossiping/M.1449111843.A.9DB.html)
+
+
+###
+
+KIP 教育部拼音方案
+POJ 白話字
+
 
 ---
 
