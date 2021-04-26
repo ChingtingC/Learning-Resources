@@ -68,6 +68,7 @@
 * [台灣母語聯盟](https://bogilianbing.wordpress.com)
 * [台字田](http://188.166.188.8:8000/): 台語字詞查詢
 * [ChhoeTaigi 找台語](https://chhoe.taigi.info/): 台語字詞查詢
+* [台語tsín袂輾轉 Easy Taiwanese](https://easytaiwanese.wordpress.com/)
 
 
 ### Books 書籍
